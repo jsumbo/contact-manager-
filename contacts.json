@@ -11,5 +11,42 @@
     "Mo": {
         "phone": "14556w49",
         "email": "mo@email.com"
+    },
+    "Bob Smith": {
+        "phone": "555-5678",
+        "email": "bob.smith@example.com"
+    },
+    "Charlie Brown": {
+        "phone": "555-8765",
+        "email": "charlie.brown@example.com"
+    },
+    "Diana Prince": {
+        "phone": "555-4321",
+        "email": "diana.prince@example.com"
+    },
+    "Eve Adams": {
+        "phone": "555-6789",
+        "email": "eve.adams@example.com"
+    },
+    "Frank Harris": {
+        "phone": "555-8760",
+        "email": "frank.harris@example.com"
+    },
+    "Grace Lee": {
+        "phone": "555-5432",
+        "email": "grace.lee@example.com"
+    },
+    "Hank Green": {
+        "phone": "555-9876",
+        "email": "hank.green@example.com"
+    },
+    "Ivy White": {
+        "phone": "555-1098",
+        "email": "ivy.white@example.com"
+    },
+    "Jack Black": {
+        "phone": "555-2109",
+        "email": "jack.black@example.com"
     }
+
 }
